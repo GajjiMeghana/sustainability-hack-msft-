@@ -1,0 +1,130 @@
+/*#a {
+    text-align: center;
+    
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 20%;
+    margin-bottom: 18%;
+    max-width: 40%;
+    min-width: 20%;
+}
+
+body {
+    position: relative;
+    background-image: url(../Images/Website/FarmerLogin.jpg);
+    
+    text-align: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#x {
+    font-size: 30px;
+    border-radius: 25%;
+    background-color: transparent;
+}
+
+#x:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+
+input {
+    font-size: 30px;
+    padding: auto;
+    background-color: transparent;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-color: black;
+}
+
+#forgotPassword {
+    margin: auto;
+    float: left;
+    font-size: 20px;
+}
+
+#link {
+    color: green;
+    text-decoration: lawngreen;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(246, 248, 246);
+    background-color: green;
+    /* display: inline-block; */
+    /*border-radius: 16px;
+    border-color: rgb(3, 66, 34);
+    width: 44%;
+}*/
+/* Center the content within the page */
+body {
+    position: relative;
+    background-image: url(../Images/Website/picc.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+/* Style the main container */
+#a {
+    margin: 5% auto 18%;
+    max-width: 40%;
+    min-width: 20%;
+    text-align: center;
+}
+
+/* Style the close button */
+#x {
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#x:hover {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Style the input fields */
+input {
+    font-size: 30px;
+    padding: 5px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+/* Style the "forgot password" link */
+#forgotPassword {
+    font-size: 20px;
+    float: left;
+}
+
+/* Style the login button */
+#link {
+    color: rgb(246, 248, 246);
+    background-color: green;
+    border-radius: 50px;
+    border: 2px solid rgb(3, 66, 34);
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+#link:hover {
+    background-color: rgb(3, 66, 34);
+    border-color: green;
+    color: green;
+}
